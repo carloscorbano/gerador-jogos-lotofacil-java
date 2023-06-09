@@ -5,3 +5,4 @@ Um simples app para gerar jogos aleatórios, usando um algoritmo básico para ge
 ## Tecnologias utilizadas ##
 
 * Javascript
+* NodeJS

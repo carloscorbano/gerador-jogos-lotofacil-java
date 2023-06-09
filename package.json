@@ -1,0 +1,24 @@
+{
+  "name": "gerador-jogos-lotofacil",
+  "version": "1.0.0",
+  "description": "Um simples app para gerar jogos aleatórios, usando um algoritmo básico para geração.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscorbano/gerador-jogos-lotafacil-java.git"
+  },
+  "author": "Carlos Roberto Corbano da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscorbano/gerador-jogos-lotafacil-java/issues"
+  },
+  "homepage": "https://github.com/carloscorbano/gerador-jogos-lotafacil-java#readme",
+  "dependencies": {
+    "async-mutex": "^0.4.0",
+    "node-fetch": "^3.3.1"
+  }
+}
